@@ -1,0 +1,17 @@
+{
+    "f1": {
+        "name": "Papas Grandes",
+        "price": 200,
+        "size": "Large"
+    },
+    "f2": {
+        "name": "Papas Medianas",
+        "price": 100,
+        "size": "Medium"
+    },
+    "f3": {
+        "name": "Papas Chicas",
+        "price": 50,
+        "size": "Small"
+    }
+}

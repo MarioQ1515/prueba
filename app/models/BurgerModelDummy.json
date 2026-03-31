@@ -1,0 +1,41 @@
+{
+    "p1":{
+        "name": "Extra Mega Big Bacon",
+        "price": "1000",
+        "ingredients": {
+            "bread": true,
+            "burgers": 5,
+            "lettuce": true,
+            "tomato": true,
+            "cheese": true,
+            "bacon": true,
+            "sauce": "Thousand Island"
+        }
+    },
+    "p2":{
+        "name": "La pobre y aburrida burger con queso",
+        "price": "500",
+        "ingredients": {
+            "bread": true,
+            "burgers": 1,
+            "lettuce": false,
+            "tomato": false,
+            "cheese": true,
+            "bacon": false,
+            "sauce": "Ketchup"
+        }
+    },
+    "p3":{
+        "name": "La clasica que nunca falla",
+        "price": "800",
+        "ingredients": {
+            "bread": true,
+            "burgers": 2,
+            "lettuce": true,
+            "tomato": true,
+            "cheese": true,
+            "bacon": false,
+            "sauce": "Mayo"
+        }
+    }
+}

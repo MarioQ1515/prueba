@@ -1,0 +1,20 @@
+{
+    "m1": {
+        "name": "Combo Extra Mega Big Bacon Grande",
+        "price": 1100,
+        "burger": ["p1"],
+        "fries": ["f1"]
+    },
+    "m2": {
+        "name": "Combo La clasica chica",
+        "price": 825,
+        "burger": ["p3"],
+        "fries": ["f3"]
+    },
+    "m3": {
+        "name": "Combo Extra Mega Big Bacon Mediano",
+        "price": 1050,
+        "burger": ["p1"],
+        "fries": ["f2"]
+    }
+}
